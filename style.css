@@ -8,3 +8,9 @@ h1{
     color: red;
     background-color: salmon;
 }
+h2{
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: chartreuse;
+    
+}
